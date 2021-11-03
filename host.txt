@@ -75,5 +75,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.googletagservices.com
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 www.youtube-nocookie.com
 
 # 0.0.0.0
